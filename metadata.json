@@ -1,0 +1,6 @@
+{
+  "name": "SDMX Panel",
+  "description": "Sistema de gestión de usuarios IPTV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
